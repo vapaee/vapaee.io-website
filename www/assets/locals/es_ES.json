@@ -28,6 +28,7 @@
     "price": "precio",
     "Price": "Precio",
     "priceNotZero": "Por favor, establezca un precio diferente a 0.00000000",
+    "hidebtns": "ocultar botones",
     "Tokenlist": "Lista de Tokens",
     "Inventory": "Inventario",
     "Albums": "Álbums",

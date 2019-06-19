@@ -9,11 +9,11 @@
       "urls": [
         "/favicon.ico",
         "/index.html",
-        "/main.33e42b6db60410c0b2f7.js",
+        "/main.a659320f611a11eec1eb.js",
         "/polyfills.a020798f6f1805631840.js",
         "/runtime.a66f828dca56eeb90e02.js",
         "/scripts.b287e546159f87d5ebd5.js",
-        "/styles.5de7074ef139d2ecf98b.css"
+        "/styles.f5640ee3d0c80e6b0984.css"
       ],
       "patterns": []
     },
@@ -113,9 +113,9 @@
     "/assets/img/vapaee.io-DEX-avatar.png": "a896a12668c5d350f831c68f857ff0fee4e93c6c",
     "/assets/img/vapaee.io-DEX.png": "a56f9a2f590af15f0f0e4da57bde92bdcc2cdd96",
     "/assets/img/vapaee16.png": "ca48188d2476117d7b7dad8a4f87b32c94026a94",
-    "/assets/locals/en_US.json": "0ae4552e335b6a836046e1530014f56731c3572a",
-    "/assets/locals/es_ES.json": "478bac5420c86b39fd24151c959f9895907da85f",
-    "/assets/locals/pt_BR.json": "33098aa5d37812b3fc6cd38c2709f84caa562189",
+    "/assets/locals/en_US.json": "79cb577549880289c811fc66f98ba67ef969a4ec",
+    "/assets/locals/es_ES.json": "0c20a0c0d472d99c758e6cfc49f57ae06e5e123d",
+    "/assets/locals/pt_BR.json": "ac520767051b8297d1a815ed1335566ac8891441",
     "/assets/logos/acorn-lg.png": "0297d04d044d94e6d5b7ecd44f7832bf9121a158",
     "/assets/logos/acorn.svg": "dd1284fa40b5f191a816403f5b1a8102195f2d93",
     "/assets/logos/beautitude-lg.png": "7d858a5631226b52bd368d8f42b17b73e850dafb",
@@ -150,12 +150,12 @@
     "/assets/logos/viitasphere-lg.png": "367b550348f966e872c00118fdaa3d53446a8150",
     "/assets/logos/viitasphere.png": "367b550348f966e872c00118fdaa3d53446a8150",
     "/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
-    "/index.html": "b31049bd23a21acd96c1fa323a415ac052a54882",
-    "/main.33e42b6db60410c0b2f7.js": "03053fce164b2937620fbdd1db21ecf7dc0d06c6",
+    "/index.html": "58a88aaad3b59ef39e7abec6cae9484b631046dc",
+    "/main.a659320f611a11eec1eb.js": "833ed5fe5c559580fea05d936e4fb0954f4b2e47",
     "/polyfills.a020798f6f1805631840.js": "689444e664034de06cbd21eccd783554c5c7726a",
     "/runtime.a66f828dca56eeb90e02.js": "078e320cc6fdaf355836c3b1c52b059cdd33fc7e",
     "/scripts.b287e546159f87d5ebd5.js": "54d5b8761ebddc6e256dd25c0f00364e6132926d",
-    "/styles.5de7074ef139d2ecf98b.css": "3df73b38e96ef3b507a184f754732cbbf1f6ed3b"
+    "/styles.f5640ee3d0c80e6b0984.css": "dad38c2c6310f22918ee9d61f8f16839d9eae6b7"
   },
   "navigationUrls": [
     {

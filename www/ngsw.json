@@ -9,11 +9,11 @@
       "urls": [
         "/favicon.ico",
         "/index.html",
-        "/main.b7e6e5828e9c8e092804.js",
+        "/main.69ea60e30eaabda45edf.js",
         "/polyfills.a020798f6f1805631840.js",
         "/runtime.a66f828dca56eeb90e02.js",
         "/scripts.b287e546159f87d5ebd5.js",
-        "/styles.a37390a9618af4ddf3a2.css"
+        "/styles.e41b18d5836d4e69a46d.css"
       ],
       "patterns": []
     },
@@ -32,6 +32,7 @@
         "/assets/icons/icon-72x72.png",
         "/assets/icons/icon-96x96.png",
         "/assets/img/Logo.png",
+        "/assets/img/cards-and-tokens-1200x400.jpeg",
         "/assets/img/cards-and-tokens.png",
         "/assets/img/coins.png",
         "/assets/img/soon.png",
@@ -110,6 +111,7 @@
     "/assets/icons/icon-72x72.png": "d79645856322a3ab73801129e05ead549a2b04b4",
     "/assets/icons/icon-96x96.png": "2606fbf48dca96ba3ca56bf8abf80fa5b1400741",
     "/assets/img/Logo.png": "4f09dbce3ddda596bbac1542853f62494c91fe92",
+    "/assets/img/cards-and-tokens-1200x400.jpeg": "322a97b438b0dde2d5263d74e7705b1d2ce13d62",
     "/assets/img/cards-and-tokens.png": "f2d1e61b46a319257224e2517101a5ae20635d67",
     "/assets/img/coins.png": "0f0834b0822b31792e56dfc41244bef655c358a9",
     "/assets/img/soon.png": "984f1cf83894933fc4de3fa9d3d697b3f6b786a9",
@@ -122,9 +124,9 @@
     "/assets/img/vapaee.io-DEX-avatar.png": "a896a12668c5d350f831c68f857ff0fee4e93c6c",
     "/assets/img/vapaee.io-DEX.png": "a56f9a2f590af15f0f0e4da57bde92bdcc2cdd96",
     "/assets/img/vapaee16.png": "ca48188d2476117d7b7dad8a4f87b32c94026a94",
-    "/assets/locals/en_US.json": "570d5f7c83c096034480f566e19670b1fb2de854",
-    "/assets/locals/es_ES.json": "ef267c518d3eb03c848ff520946011faa135ff2f",
-    "/assets/locals/pt_BR.json": "4b12b2eeadaeb37025eb2b61be62036b3f7f93fa",
+    "/assets/locals/en_US.json": "e11ee11f35a0721759f40b9611f51fed73f8508f",
+    "/assets/locals/es_ES.json": "7d996d4251044b54aeb0dcd2659a0eb72bec36c1",
+    "/assets/locals/pt_BR.json": "5a0727fce584ec73bf0a4cf10871bb1298687e4f",
     "/assets/logos/acorn-lg.png": "0297d04d044d94e6d5b7ecd44f7832bf9121a158",
     "/assets/logos/acorn.svg": "dd1284fa40b5f191a816403f5b1a8102195f2d93",
     "/assets/logos/beautitude-lg.png": "7d858a5631226b52bd368d8f42b17b73e850dafb",
@@ -162,12 +164,12 @@
     "/assets/logos/viitasphere-lg.png": "367b550348f966e872c00118fdaa3d53446a8150",
     "/assets/logos/viitasphere.png": "367b550348f966e872c00118fdaa3d53446a8150",
     "/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
-    "/index.html": "d746cc3e127e7f90730a8ff9f177ccfb63e44e2e",
-    "/main.b7e6e5828e9c8e092804.js": "258351030fd5f3f3b247dc6c599bb81c7a408a1b",
+    "/index.html": "c6f7f321b4e7db5fa3104df9f7e363a34b5e8e68",
+    "/main.69ea60e30eaabda45edf.js": "01e6fb43121336bc8424118c9b82c29e7687acab",
     "/polyfills.a020798f6f1805631840.js": "689444e664034de06cbd21eccd783554c5c7726a",
     "/runtime.a66f828dca56eeb90e02.js": "078e320cc6fdaf355836c3b1c52b059cdd33fc7e",
     "/scripts.b287e546159f87d5ebd5.js": "54d5b8761ebddc6e256dd25c0f00364e6132926d",
-    "/styles.a37390a9618af4ddf3a2.css": "501299ecc035f6871d25562890be905fb2f25c69"
+    "/styles.e41b18d5836d4e69a46d.css": "5a782ff4de64507b20814c8944427860528899a1"
   },
   "navigationUrls": [
     {

@@ -52,6 +52,8 @@
     "tinallowed": "Este token ainda não foi verificado em vapaee.io DEX",    
     "Tokens": "Tokens",
     "markets": "mercados",
+    "tknMarkets": "Mercados {{symbol}}",
+    "newmarket": "novo mercado",
     "token": "token",
     "volume": "volume",
     "vol": "vol.",
@@ -94,8 +96,8 @@
     "DisclaimerText": "O propósito deste site é testar a tecnologia EOSIO e algumas aplicações relacionadas como Scatter. Sugere-se atenção quanto ao seu uso visto que as transações realizadas são reais. Qualquer situação resultante do uso deste site é de inteira responsabilidade do usuário e não do seu criador.",
     "logDeposit":"{{user}} deposita {{amount}}",
     "logWithdraw":"{{user}} retira {{amount}}",
-    "logCancel":"{{user}} cancela {{ordertype}} do mercado {{comodity}}/{{currency}}",
-    "logCancelN":"{{user}} cancela {{quantity}} {{ordertype}} do mercado {{comodity}}/{{currency}}",
+    "logCancel":"{{user}} cancela {{ordertype}} do mercado {{commodity}}/{{currency}}",
+    "logCancelN":"{{user}} cancela {{quantity}} {{ordertype}} do mercado {{commodity}}/{{currency}}",
     "logOrder":"{{user}} cria um {{ordertype}} para {{amount}} tokens a {{price}} cada um",
     "logTrxSell":"{{user}} vende {{buyer}} {{amount}} tokens a {{price}} cada um, para um total de {{payment}}",
     "logTrxBuy":"{{user}} compra {{seller}} {{amount}} tokens a {{price}} cada um, para um total de {{payment}}",
@@ -113,5 +115,8 @@
     "activitylog": "Log de atividades",
     "user": "usuário",
     "detail": "detalhe",
-    "toolow": "quantidades muito baixas"
+    "toolow": "quantidades muito baixas",
+    "visitwebsite":"visite o site",
+    "commodity": "mercadoria",
+    "currency": "moeda"
 }

@@ -9,7 +9,7 @@
       "urls": [
         "/favicon.ico",
         "/index.html",
-        "/main.8be108fd4278496dfca7.js",
+        "/main.ba53fe4443d3125936a9.js",
         "/polyfills.a020798f6f1805631840.js",
         "/runtime.a66f828dca56eeb90e02.js",
         "/scripts.b287e546159f87d5ebd5.js",
@@ -104,7 +104,7 @@
     }
   ],
   "hashTable": {
-    "/assets/endpoints.json": "1949ef315b94fb299c90a747b97da2c6463992c2",
+    "/assets/endpoints.json": "65a80e99abe4ee565864a6b738559ee551a1c369",
     "/assets/icons/icon-128x128.png": "bc551d25b54c728a865e218c53dd69430aca406b",
     "/assets/icons/icon-144x144.png": "f9354255853117c5b75ff2560cf9da0236fe11f5",
     "/assets/icons/icon-152x152.png": "dd03bc076ff123cb353f54559ad7383984cf6123",
@@ -170,8 +170,8 @@
     "/assets/logos/yang-coin.png": "0d1d97f13770becdf43affc660e121041fbe68fb",
     "/assets/uploads/yang-banner.jpg": "98e0d0040d9793b0f098e69a1b888a74af55a0ae",
     "/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
-    "/index.html": "bbb6ad3840176ad2d3c19c668d9327c1fe4604c8",
-    "/main.8be108fd4278496dfca7.js": "2b7daf125fa81095ed023950301aa7c02ebd741d",
+    "/index.html": "7b0fc77d394f95a387b0671aa6cf91961cd548b0",
+    "/main.ba53fe4443d3125936a9.js": "ac12e562c45ba6e3c3543e7d9bf7545b0542af62",
     "/polyfills.a020798f6f1805631840.js": "689444e664034de06cbd21eccd783554c5c7726a",
     "/runtime.a66f828dca56eeb90e02.js": "078e320cc6fdaf355836c3b1c52b059cdd33fc7e",
     "/scripts.b287e546159f87d5ebd5.js": "54d5b8761ebddc6e256dd25c0f00364e6132926d",

@@ -118,5 +118,7 @@
     "toolow": "quantidades muito baixas",
     "visitwebsite":"visite o site",
     "commodity": "mercadoria",
-    "currency": "moeda"
+    "currency": "moeda",
+    "skin": "pele",
+    "invert": "inverter"
 }

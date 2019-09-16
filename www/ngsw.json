@@ -9,11 +9,11 @@
       "urls": [
         "/favicon.ico",
         "/index.html",
-        "/main.bc0cc973de1a1ebcb2c3.js",
+        "/main.7d8c84c118d52ff9fb56.js",
         "/polyfills.a020798f6f1805631840.js",
         "/runtime.a66f828dca56eeb90e02.js",
         "/scripts.b287e546159f87d5ebd5.js",
-        "/styles.e837ea69ac70c2d94f75.css"
+        "/styles.8675915cbe578717aa7c.css"
       ],
       "patterns": []
     },
@@ -38,6 +38,7 @@
         "/assets/img/soon.png",
         "/assets/img/twitter.png",
         "/assets/img/vapaee-app-icon.png",
+        "/assets/img/vapaee-check-black.png",
         "/assets/img/vapaee-check.png",
         "/assets/img/vapaee-sposnsor-icon.png",
         "/assets/img/vapaee-telos-dex-shadow-green.png",
@@ -148,6 +149,7 @@
     "/assets/img/soon.png": "984f1cf83894933fc4de3fa9d3d697b3f6b786a9",
     "/assets/img/twitter.png": "456f0facab65d1c19008d5205942d79956e73809",
     "/assets/img/vapaee-app-icon.png": "9684824f907fcd0224f6ec53a048b0915f3a0eac",
+    "/assets/img/vapaee-check-black.png": "4de8568ebea4947be8195ee59c84f02a79344c4b",
     "/assets/img/vapaee-check.png": "28092aa3698066b2af39c878817b855bc2eb9538",
     "/assets/img/vapaee-sposnsor-icon.png": "a2f2a6f90c4a2758541a7531bed4ac3238888a22",
     "/assets/img/vapaee-telos-dex-shadow-green.png": "16926c9d5ec10017b1a64b6c4591a20a098897f2",
@@ -218,20 +220,20 @@
     "/assets/logos/yang-coin-lg.png": "3f4cecd1441c56395f75a0b8c1953bef38110522",
     "/assets/logos/yang-coin.png": "0d1d97f13770becdf43affc660e121041fbe68fb",
     "/assets/skins/skin-empty.css": "18aeb7e9834eb132f4ca085ae2f5a5364729f33f",
-    "/assets/skins/skin-jungle.css": "10b8b9bc4fc5fd1e7b1e1c109232f9dc2589e1e0",
-    "/assets/skins/skin-rain.css": "2273ac21774a6598ecdb7c8b58a8196c24085a23",
-    "/assets/skins/skin-sky.css": "65d27f3e9e02ac5230de2133de633b0530d796e5",
+    "/assets/skins/skin-jungle.css": "5993639021eec84f7c9f9f3b5d5f811566f04a4f",
+    "/assets/skins/skin-rain.css": "48218b6228c480221ab08b92bf6d24145a88a21b",
+    "/assets/skins/skin-sky.css": "e46800fce8e30afd11869d0e560a427792cdc739",
     "/assets/uploads/drip-2806027_640.jpg": "3549688017ed73df41ff1d259a8022882c881284",
     "/assets/uploads/forest-438432_640.jpg": "5ff45d6b6972a42c9defe6c20860d7ce7122491c",
     "/assets/uploads/landscape-4436636_960_720.jpg": "228aa9ed5f6340d2f32b4b4a3f3cbbfbbb5a3bc3",
     "/assets/uploads/yang-banner.jpg": "98e0d0040d9793b0f098e69a1b888a74af55a0ae",
     "/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
-    "/index.html": "e7bc246c5a86e5b46ee3cbd0a97383436575c45e",
-    "/main.bc0cc973de1a1ebcb2c3.js": "b26aca98d3a297d1ff03d5d7e7e215b6cc081534",
+    "/index.html": "04200d4d847a748b7aced6636e60bbbdd63c5351",
+    "/main.7d8c84c118d52ff9fb56.js": "1ced5b0b51dcb2cc93b630071d1745ef45fa7d42",
     "/polyfills.a020798f6f1805631840.js": "689444e664034de06cbd21eccd783554c5c7726a",
     "/runtime.a66f828dca56eeb90e02.js": "078e320cc6fdaf355836c3b1c52b059cdd33fc7e",
     "/scripts.b287e546159f87d5ebd5.js": "54d5b8761ebddc6e256dd25c0f00364e6132926d",
-    "/styles.e837ea69ac70c2d94f75.css": "4a95cc18be21f454f6dc27c4ff6496909e1cfbc7"
+    "/styles.8675915cbe578717aa7c.css": "77833ec9be6e66332e4976489b7be3f7f597b7dd"
   },
   "navigationUrls": [
     {

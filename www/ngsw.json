@@ -9,7 +9,7 @@
       "urls": [
         "/favicon.ico",
         "/index.html",
-        "/main.e399e1eaf6ff085e7f7b.js",
+        "/main.b1401fb58a95b23f9105.js",
         "/polyfills.a020798f6f1805631840.js",
         "/runtime.a66f828dca56eeb90e02.js",
         "/scripts.b287e546159f87d5ebd5.js",
@@ -136,7 +136,7 @@
     }
   ],
   "hashTable": {
-    "/assets/endpoints.json": "65a80e99abe4ee565864a6b738559ee551a1c369",
+    "/assets/endpoints.json": "1d1fff8209b9a14a7649d50f1a8595b17d4c18b6",
     "/assets/icons/icon-128x128.png": "bc551d25b54c728a865e218c53dd69430aca406b",
     "/assets/icons/icon-144x144.png": "f9354255853117c5b75ff2560cf9da0236fe11f5",
     "/assets/icons/icon-152x152.png": "dd03bc076ff123cb353f54559ad7383984cf6123",
@@ -234,8 +234,8 @@
     "/assets/uploads/vittasphere-banner.jpg": "35966a79a07f0a812c404949caee33f8217facb7",
     "/assets/uploads/yang-banner.jpg": "98e0d0040d9793b0f098e69a1b888a74af55a0ae",
     "/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
-    "/index.html": "d115f60cc7b1fbcedf1cf37b935f6f81bfdc2101",
-    "/main.e399e1eaf6ff085e7f7b.js": "df85dd579a01a99951d4e18acdde81736c1094ec",
+    "/index.html": "a0841a974a60e3401f89f98d9ecaad4130e1926d",
+    "/main.b1401fb58a95b23f9105.js": "c423a34b1e04c5a8f632f17d87e17906e75cc0fb",
     "/polyfills.a020798f6f1805631840.js": "689444e664034de06cbd21eccd783554c5c7726a",
     "/runtime.a66f828dca56eeb90e02.js": "078e320cc6fdaf355836c3b1c52b059cdd33fc7e",
     "/scripts.b287e546159f87d5ebd5.js": "54d5b8761ebddc6e256dd25c0f00364e6132926d",

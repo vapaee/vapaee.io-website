@@ -9,7 +9,7 @@
       "urls": [
         "/favicon.ico",
         "/index.html",
-        "/main.cc0855c6e3217e0d2ce8.js",
+        "/main.c727d4f36b0d57c1f6c3.js",
         "/polyfills.a020798f6f1805631840.js",
         "/runtime.a66f828dca56eeb90e02.js",
         "/scripts.b287e546159f87d5ebd5.js",
@@ -158,7 +158,7 @@
     }
   ],
   "hashTable": {
-    "/assets/app.json": "cebe7cffbdb76ab356df073263c759924b7b07a3",
+    "/assets/app.json": "d07ac8cdac1b4cd693846bf328ef29da76dee944",
     "/assets/endpoints.json": "8cefe16120c3e16d86374f11e0993cd800f7e2a7",
     "/assets/futbol/D2115_24_748_1200.jpg": "83af1325e82ab0e55d807c5c57bc6372af5044e2",
     "/assets/futbol/Indy-Eleven-Stadium-Rendering.jpg": "a55bdb36ac02bf61736fbd84b2938cea6b951c52",
@@ -278,8 +278,8 @@
     "/assets/uploads/yang-banner.jpg": "98e0d0040d9793b0f098e69a1b888a74af55a0ae",
     "/assets/uploads/yensesa-logo.svg": "621c6b1e674963263f766051d4246d9c217154ea",
     "/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
-    "/index.html": "d2200c6eaef43c17df0d3085bfc49adeb592c634",
-    "/main.cc0855c6e3217e0d2ce8.js": "e0b98ebca675de46a1c0e78472b2506884ec4432",
+    "/index.html": "f99529936991416574a14fbe0b5aa265704bfd21",
+    "/main.c727d4f36b0d57c1f6c3.js": "9b3ec8005982334669e4c62bae9698174ce63945",
     "/polyfills.a020798f6f1805631840.js": "689444e664034de06cbd21eccd783554c5c7726a",
     "/runtime.a66f828dca56eeb90e02.js": "078e320cc6fdaf355836c3b1c52b059cdd33fc7e",
     "/scripts.b287e546159f87d5ebd5.js": "54d5b8761ebddc6e256dd25c0f00364e6132926d",

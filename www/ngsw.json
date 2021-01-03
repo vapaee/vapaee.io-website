@@ -1,19 +1,24 @@
 {
   "configVersion": 1,
+  "timestamp": 1609711634110,
   "index": "/index.html",
   "assetGroups": [
     {
       "name": "app",
       "installMode": "prefetch",
       "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
       "urls": [
         "/favicon.ico",
         "/index.html",
-        "/main.775b899e4b3173f292c0.js",
-        "/polyfills.a020798f6f1805631840.js",
-        "/runtime.a66f828dca56eeb90e02.js",
-        "/scripts.b287e546159f87d5ebd5.js",
-        "/styles.1b41f894c75e75a096c5.css"
+        "/main.0b9414cf2d7dad2a4c15.js",
+        "/polyfills-es5.d587910ad337d906391f.js",
+        "/polyfills.49c3298bd03e8995d11c.js",
+        "/runtime.0e49e2b53282f40c8925.js",
+        "/scripts.2edf373f75406e502a77.js",
+        "/styles.b7b9628715807e4b525b.css"
       ],
       "patterns": []
     },
@@ -21,6 +26,9 @@
       "name": "assets",
       "installMode": "lazy",
       "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
       "urls": [
         "/assets/app.json",
         "/assets/endpoints.json",
@@ -154,11 +162,14 @@
       "strategy": "freshness",
       "maxSize": 0,
       "maxAge": 0,
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
       "version": 1
     }
   ],
   "hashTable": {
-    "/assets/app.json": "c94f970bdc45ae067e5f6e3b13ddb0fd859a1b8d",
+    "/assets/app.json": "e0ae85921d7c6f9bd85e3af10fddc28824f8b0c0",
     "/assets/endpoints.json": "9f3a5fab036d65713698d789eac7c9857a3121f5",
     "/assets/futbol/D2115_24_748_1200.jpg": "83af1325e82ab0e55d807c5c57bc6372af5044e2",
     "/assets/futbol/Indy-Eleven-Stadium-Rendering.jpg": "a55bdb36ac02bf61736fbd84b2938cea6b951c52",
@@ -278,12 +289,13 @@
     "/assets/uploads/yang-banner.jpg": "98e0d0040d9793b0f098e69a1b888a74af55a0ae",
     "/assets/uploads/yensesa-logo.svg": "621c6b1e674963263f766051d4246d9c217154ea",
     "/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
-    "/index.html": "a8aaa3bcbe434aba93b730180f437929237f1c9b",
-    "/main.775b899e4b3173f292c0.js": "18a5dd90e16b15dd3e59e2441a8ff0ae4d8afd9f",
-    "/polyfills.a020798f6f1805631840.js": "689444e664034de06cbd21eccd783554c5c7726a",
-    "/runtime.a66f828dca56eeb90e02.js": "078e320cc6fdaf355836c3b1c52b059cdd33fc7e",
-    "/scripts.b287e546159f87d5ebd5.js": "54d5b8761ebddc6e256dd25c0f00364e6132926d",
-    "/styles.1b41f894c75e75a096c5.css": "6268f3b81fade4e4026356a328ab4204d7cb6df1"
+    "/index.html": "7a4b6e18fe3449e13d14317f02576f31fce667ec",
+    "/main.0b9414cf2d7dad2a4c15.js": "47adbfb543b8f410a0dd2306b3bfe3a2a2bcbe48",
+    "/polyfills-es5.d587910ad337d906391f.js": "18f0f73993644ce1b78100d9e9c50451b166c490",
+    "/polyfills.49c3298bd03e8995d11c.js": "f753429a133d35a5f79f1eb8ea339f8d91f3f6dd",
+    "/runtime.0e49e2b53282f40c8925.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
+    "/scripts.2edf373f75406e502a77.js": "e9e9af8f292154d3704d50abb782036fd2a5be81",
+    "/styles.b7b9628715807e4b525b.css": "c3adec9fb87fbe021c6b55968abd96fb290d004d"
   },
   "navigationUrls": [
     {
@@ -302,5 +314,6 @@
       "positive": false,
       "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
     }
-  ]
+  ],
+  "navigationRequestStrategy": "performance"
 }

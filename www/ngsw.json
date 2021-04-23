@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1611462708129,
+  "timestamp": 1619212551429,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -67,7 +67,6 @@
         "/assets/img/vapaee.svg",
         "/assets/img/vapaee16.png",
         "/assets/img/youtube.png",
-        "/assets/locals/en_URS.json",
         "/assets/locals/en_US.json",
         "/assets/locals/es_ES.json",
         "/assets/locals/pt_BR.json",
@@ -208,7 +207,6 @@
     "/assets/img/vapaee.svg": "007c1aee470fc1f1467f4a62303e49062dd7f9d2",
     "/assets/img/vapaee16.png": "ca48188d2476117d7b7dad8a4f87b32c94026a94",
     "/assets/img/youtube.png": "c7b3e2615493f3a82760191f3e0a2707fbdf2e87",
-    "/assets/locals/en_URS.json": "0a89bf8859ccc5294dd6e0418ac1d6d547d38aa8",
     "/assets/locals/en_US.json": "0a89bf8859ccc5294dd6e0418ac1d6d547d38aa8",
     "/assets/locals/es_ES.json": "60589857f4c9a44f18ff1037b203b520903b2646",
     "/assets/locals/pt_BR.json": "d26e280b3c59fda80637ba14511b4c14133140d8",
